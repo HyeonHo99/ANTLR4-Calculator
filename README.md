@@ -1,6 +1,11 @@
 # ANTLR4-Calculator
 Java program using ANTLR Visitor class for Build AST(Abstract Syntax Tree)
 
+## Prerequisite
+
+```
+
+```
 
 ## Brief Explanation
 - Expr.g4: Grammar file, define tokens and BNF rules
@@ -8,3 +13,8 @@ Java program using ANTLR Visitor class for Build AST(Abstract Syntax Tree)
 - BuildAstVisitor.java: Define class that builds AST
 - AstCall.java: Methods to print the AST nodes
 - Evaluate.java:Methods to calculate the input-expression
+
+## How to Run
+```
+sudo apt-get install git
+```
